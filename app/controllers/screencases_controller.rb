@@ -1,0 +1,2 @@
+class ScreencasesController < ApplicationController
+end
